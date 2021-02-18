@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_peoples_black_40dp"
+        android:title="프로필"/>
+
+    <item
+        android:id="@+id/action_chat"
+        android:enabled="true"
+        android:icon="@drawable/ic_chat_bubble_black_24dp"
+        android:title="대화"/>
+    <item
+        android:id="@+id/action_note"
+        android:enabled="true"
+        android:title="게시판"
+        android:icon="@drawable/ic_pin_drop_black_40dp"/>
+    <item
+        android:id="@+id/action_option"
+        android:enabled="true"
+        android:title="지도"
+        android:icon="@drawable/ic_option_black_40dp"/>
+</menu>
